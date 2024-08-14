@@ -1,6 +1,7 @@
-# template-vanilla
+# js-basic-initials-adding-simple-part-of-code
 
-## Text
+## Just uncomment code and check their work in browser
+(use ```CMD + /``` in mac and ```CTRL + /``` in win/linux)
 
 ## Criteria:
 
