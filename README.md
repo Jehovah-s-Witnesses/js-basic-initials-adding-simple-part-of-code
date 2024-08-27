@@ -1,5 +1,5 @@
 # js-basic-initials-adding-simple-part-of-code
-
+change variable
 ## Just uncomment code and check their work in browser
 (use ```CMD + /``` in mac and ```CTRL + /``` in win/linux)
 
